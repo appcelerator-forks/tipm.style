@@ -1,0 +1,15 @@
+{
+  "name": "style",
+  "repo": "tipm/style",
+  "author": "Bodhi5 <info@bodhi5.com>",
+  "description": "Titanium Global Styling Helper",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
